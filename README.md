@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td rowspan="2">Deep Neural Networks</td>
-    <td><a href="https://colab.research.google.com/drive/12BqEfQ4RDjeWTgbEIaXO_ez-bLds5Czx?usp=sharing">Building your Deep Neural Network Step by Step</td>
+    <td><a href="https://colab.research.google.com/drive/12BqEfQ4RDjeWTgbEIaXO_ez-bLds5Czx?usp=sharing" target="_blank">Building your Deep Neural Network Step by Step</td>
   </tr>
   <tr>
     <td><a href="https://colab.research.google.com/drive/15FM2GBtTt5dRFrslMv15dd3-EMbj4Vow?usp=sharing">Deep Neural Network Application</a></td>
