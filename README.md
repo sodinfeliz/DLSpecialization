@@ -43,7 +43,13 @@
   <tr>
     <td><a href="https://colab.research.google.com/drive/1EXD98VU5IXt3CCgM9UWBA6mpi968T_pC?usp=sharing">Gradient Checking</a></td>
   </tr>
+  <tr>
+    <td style="text-align:center">Optimization Algorithms</td>
+    <td><a href="https://colab.research.google.com/drive/1uB9dabkbW2eDODCFWMtL2k5158wjgewp?usp=sharing">Optimization Methods</a></td>
+  </tr>
 </table>
+
+
 
 
 
